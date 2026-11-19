@@ -1,0 +1,3 @@
+data/youtube_oauth_config.json
+.env
+.env.*
